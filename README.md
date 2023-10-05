@@ -1,6 +1,10 @@
 # dotnet-kafka-cqrs
 
-.NET microservice that comply with the CQRS and Event Sourcing pattern, supported by following technologies: MS SQL Server, MongoDB, Apache Kafka.
+.NET microservice that comply with the CQRS and Event Sourcing pattern, that means: 
+- Command
+- Event
+- Query
+Technologies: Docker, MS SQL Server, MongoDB, Apache Kafka.
 
 ![Event Driven Architecture](/docs/project-architecture.png)
 
