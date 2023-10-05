@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post.Query.Infrastructure",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS.Core", "..\CQRS.Entity\CQRS.Core\CQRS.Core.csproj", "{ABD6B5FB-5642-4F45-9813-17F4B732479A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post.Common", "Post.Common\Post.Common.csproj", "{57AE5C97-A309-45FB-B95A-A08A94FD0E17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,6 +60,10 @@ Global
 		{ABD6B5FB-5642-4F45-9813-17F4B732479A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABD6B5FB-5642-4F45-9813-17F4B732479A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABD6B5FB-5642-4F45-9813-17F4B732479A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57AE5C97-A309-45FB-B95A-A08A94FD0E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AE5C97-A309-45FB-B95A-A08A94FD0E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AE5C97-A309-45FB-B95A-A08A94FD0E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AE5C97-A309-45FB-B95A-A08A94FD0E17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{51899809-10CF-482B-81FD-ABA60599ACA4} = {5C037EDC-A53D-4978-845E-F6FBC3326544}

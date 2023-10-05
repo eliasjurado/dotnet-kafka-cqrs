@@ -7,8 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\CQRS.Entity\CQRS.Core\CQRS.Core.csproj" />
-    <ProjectReference Include="..\..\Post.Common\Post.Common.csproj" />
+    <ProjectReference Include="..\..\CQRS.Entity\CQRS.Core\CQRS.Core.csproj" />
   </ItemGroup>
 
 </Project>
