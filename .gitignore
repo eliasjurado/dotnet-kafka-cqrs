@@ -103,3 +103,4 @@ jmh-benchmarks/src/main/generated
 **/src/generated-test
 
 storage/kafka-tiered-storage/
+.fake
